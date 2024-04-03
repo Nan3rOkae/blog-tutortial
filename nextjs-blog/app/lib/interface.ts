@@ -9,7 +9,7 @@ export interface simpleBlogCard {
 export interface fullBlog {
   author: string;
   currentSlug: string;
-  titles: string;
+  title: string;
   content: any;
   titleImage: any;
 }
